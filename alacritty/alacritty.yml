@@ -1,0 +1,37 @@
+# Alacritty config by Gabe.
+
+# Font.
+font:
+  size: 12
+  normal:
+    family: Hack 
+    style: Regular
+
+colors:
+  # Default colors
+  primary:
+    background: '0x170a13'
+    foreground: '0xe0c4d5'
+
+  # Normal colors
+  normal:
+    black:   '0x503548'
+    red:     '0x653b57'
+    green:   '0x368e64'
+    yellow:  '0x857dde'
+    blue:    '0x61939d'
+    magenta: '0x857dde'
+    cyan:    '0xa19dd8'
+    white:   '0xeedee7'
+
+  # Bright colors
+  bright:
+    black:   '0x61939d'
+    red:     '0xa19dd8'
+    green:   '0x368e64'
+    yellow:  '0x857dde'
+    blue:    '0x61939d'
+    magenta: '0x857dde'
+    cyan:    '0xcb8a72'
+    white:   '0xe755bc'
+
